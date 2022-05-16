@@ -1,6 +1,6 @@
 <img src="customer-churn.jpg" alt="some text" width=1200 height=500>
 
-# analise_de_dados_churn
+# Analise_de_dados_churn
 
 ## 1.Objetivo
 
