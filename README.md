@@ -1,4 +1,4 @@
-<img src="customer-churn.jpg" alt="some text" width=1300 height=400>
+<img src="customer-churn.jpg" alt="some text" width=1400 height=450>
 
 # Analise_de_dados_churn
 
