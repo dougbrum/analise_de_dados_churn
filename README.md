@@ -1,4 +1,6 @@
-<img src="customer-churn.jpg" alt="some text" width=60 height=40>
+<img src="customer-churn.jpg" alt="some text" width=400 height=300>
+<body style="background-image: custumer-churn.jpg">
+
 # analise_de_dados_churn
 
 ## 1.Objetivo
