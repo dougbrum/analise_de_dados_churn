@@ -1,5 +1,4 @@
-<img src="customer-churn.jpg" alt="some text" width=400 height=300>
-<body style="background-image: custumer-churn.jpg">
+<img src="customer-churn.jpg" alt="some text" width=1200 height=500>
 
 # analise_de_dados_churn
 
